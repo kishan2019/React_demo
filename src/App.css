@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+button {
+  background-color: rgb(22, 44, 22);
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+}
+body {
+  background-color: yellow;
+}
